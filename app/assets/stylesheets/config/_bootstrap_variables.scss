@@ -1,0 +1,36 @@
+// Import the Google fonts that you choose
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700|Work+Sans:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+// Define fonts 
+$body-font: "Work Sans", "Helvetica", "sans-serif";
+$headers-font: "Nunito", "Helvetica", "sans-serif";
+
+$red: #FD1015;
+$blue: #167FFB;
+$yellow: #FFC65A;
+$orange: #E67E22;
+$green: #1EDD88;
+$gray: #0E0000;
+$light-gray: #F4F4F4;
+
+// General style
+$font-family-sans-serif:  $body-font;
+$headings-font-family:    $headers-font;
+$body-bg:                 $light-gray;
+$font-size-base: 1rem;
+
+// Colors
+$body-color: $gray;
+$primary:    $blue;
+$success:    $green;
+$info:       $yellow;
+$danger:     $red;
+$warning:    $orange;
+
+// Buttons & inputs' radius
+$border-radius:    2px;
+$border-radius-lg: 2px;
+$border-radius-sm: 2px;
+
+// Other variables
